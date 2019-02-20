@@ -1,7 +1,11 @@
 <div align="center">
-  <a href="https://github.com/webpack/webpack">
-    <img width="200" height="200" src="https://webpack.js.org/assets/icon-square-big.svg">
-  </a>
+
+<img width="200" height="200" src="https://victorvhpg.github.io/minicurso-react.js/slides/img/logo.png" style="max-width:100%;"/>
+
+<img width="200" height="200" src="https://camo.githubusercontent.com/d18f4a7a64244f703efcb322bf298dcb4ca38856/68747470733a2f2f7765627061636b2e6a732e6f72672f6173736574732f69636f6e2d7371756172652d6269672e737667" style="max-width:100%;">
+
+<img width="200" height="200" src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png" style="max-width:100%;">
+
   <br>
   <br>
 
