@@ -4,6 +4,8 @@ const path = require('path')
 const webpack = require('webpack')
 
 module.exports = {
+    mode: 'production',
+    performance: { hints: false },
     devtool: 'source-map', // Serve para debugar. Lembrando que o index precisa utilizar o STATIC
     entry: [
         'react-hot-loader/patch',
